@@ -1,0 +1,14 @@
+package types;
+
+public enum FileSections {
+	NAME
+	,COURSESLOTS
+	,LABSLOTS
+	,COURSES
+	,LABS
+	,NOTCOMPATIBLE
+	,UNWANTED
+	,PREFERENCES
+	,PAIR
+	,PARTIALASSIGNMENTS
+}
