@@ -27,7 +27,7 @@ solution for this problem is unknown (according to the professor). So the longer
 
 ##How to run it
   The source code has been included, but does not compile nicely outside of the IDE that it was developed in (Eclipse). An executable
-  jar has been included. Once the jar is run, it will prompt the user for an input file. Use any of the following: RealExapmle.txt, 
+  jar has been included. Once the jar is run, it will prompt the user for an input file. Use any of the following: RealExample.txt, 
   ShortExample.txt, ShortExample2.txt, r.txt. r2.txt. After, it will prompt for parameter input. For general use, all 1's are fine.
   These parameters allow you to customize the optimization.
   
