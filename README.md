@@ -33,3 +33,12 @@ solution for this problem is unknown (according to the professor). So the longer
   
   The program in the jar file is hardcoded to run over a million times because a very good solution was needed for submission. 
   Therefore, it will takes around 1 hour to run the real examples, and around 1 minute to run the short examples.
+  
+  
+##Other
+This was a group project for CPSC 433 (Introduction to Artificial Intelligence). 
+What wasn't coded by myself:
+  - Anything to do with parsing the input file and handling user input
+  - OrTree.java
+
+Everything else was designed and coded by Brandon Brien. 
