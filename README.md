@@ -12,7 +12,7 @@ The r.txt and r2.txt are the "real"/more complex problems. They contain:
   - 2 unwanted entries
   - ~ 77 preferences, each with their own penalty values
   
-As you can see, there would be millions and millions of different schedules that could be built. 
+A very very rough estimate of the search space is 134^32 + 48^21. 
 
 #How does it work?
   It works by implementing a genetic/evolutionary algorithm. It starts by building 50 valid, yet poorly optimized solutions and
