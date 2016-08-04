@@ -12,7 +12,7 @@ The r.txt and r2.txt are the "real"/more complex problems. They contain:
   - 2 unwanted entries
   - ~ 77 preferences, each with their own penalty values
   
-A very very rough estimate of the search space is 134^32 + 48^21. 
+A very very rough estimate of the search space is ~13432^4821
 
 #How does it work?
   It works by implementing a genetic/evolutionary algorithm. It starts by building 50 valid, yet poorly optimized solutions and
